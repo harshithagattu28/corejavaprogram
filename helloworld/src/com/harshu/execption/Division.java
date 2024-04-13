@@ -7,8 +7,19 @@ public class Division {
 		try {
 			c=a/b;
 			System.out.println("division"+c);
-					
 		}
-		catch(Arithemetic)
+		catch(ArrayIndexOutOfBoundsException d) {
+			System.out.println("division"+d.getMessage());
+		}
+		catch(ArithmeticException e) {
+			System.out.println("division"+e.getMessage());
+		}
+		catch(Exception e) {
+			System.out.println("welcome");
+		}
 	}
-}
+	
+
+	}
+		
+		

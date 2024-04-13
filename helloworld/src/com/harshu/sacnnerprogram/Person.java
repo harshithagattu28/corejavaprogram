@@ -1,7 +1,8 @@
 package com.harshu.sacnnerprogram;
 //to demonstrate scanner program
-public class ClassPerson {
-	public class Person {
+
+public class Person {
+
 		private String name;    // data member
 		private int income;
 		private int tax;
@@ -36,5 +37,3 @@ public class ClassPerson {
 
 
 
-
-}

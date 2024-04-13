@@ -1,6 +1,8 @@
 package com.harshu.sacnnerprogram;
 import java.util.Scanner;
-public class Classdemo {
+
+public class Scannerdemo {
+
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter you are name");
@@ -12,6 +14,5 @@ public class Classdemo {
 		System.out.println("id of the student "+ i);
 	}
 	}
-
 
 

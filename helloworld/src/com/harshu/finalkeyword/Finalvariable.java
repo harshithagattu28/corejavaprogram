@@ -5,6 +5,7 @@ public class Finalvariable {
   
   final  int y=4;
   
+  string s="harshu"
 // void change () {
 //     x=10;
 //  }
